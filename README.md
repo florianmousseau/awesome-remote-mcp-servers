@@ -2864,6 +2864,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Dubai Data MCP connector](https://glama.ai/mcp/connectors/ae.datadubai/dubai-real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/ae.datadubai/dubai-real-estate)
   🔓 - Dubai property statistics from Land Department open data: prices, rents, yields, sales by area, project and developer.
 
+- [Edifiable](https://edifiable.fr/api) `https://edifiable.fr/api/mcp`
+  [![Edifiable MCP connector](https://glama.ai/mcp/connectors/fr.edifiable/edifiable/badges/score.svg)](https://glama.ai/mcp/connectors/fr.edifiable/edifiable)
+  🔓 - French local zoning plans (PLU): rules per zone and street, quoted to the article, and building permit pieces.
+
 - [Eigenheim Invest](https://eigenheim-invest.de/immobilienpreise-berlin/) `https://eigenheim-invest.de/mcp/`
   [![Eigenheim Invest MCP connector](https://glama.ai/mcp/connectors/io.github.magicSEO/eigenheim-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.magicSEO/eigenheim-mcp)
   🔓 - Berlin property prices per m² by locality, rental yields, land values 2026, population forecast and active listings.
